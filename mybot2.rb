@@ -1,4 +1,4 @@
-#!/home/roger/.rvm/rubies/ruby-1.9.2-head/bin/ruby
+#!/Users/edv/.rvm/bin/ruby-1.9.2-rc2
 require './planetwars2.rb'
 require "logger"
 
